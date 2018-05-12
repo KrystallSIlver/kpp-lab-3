@@ -8,4 +8,4 @@
     2. Вибрати на мапі точку
 
 # Скріншоти
-![Рис.1 - Скріншот браузерної аплікації](https://github.com/KrystallSIlver/kpp-lab-3/raw/master/Scrin.jpg)
+![Рис.1 - Скріншот браузерної аплікації](https://github.com/KrystallSIlver/kpp-lab-3/raw/master/Screan.jpg)
